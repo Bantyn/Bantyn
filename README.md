@@ -32,12 +32,12 @@ Skilled in **React, Tailwind-style UI, admin dashboards, and scalable frontend a
 ### 🏢 Frontend Developer — Yesha Enterprises  
 **2024 – Present**
 
-- Developed **responsive React applications** for business use  
-- Created **admin dashboards** with modern UI patterns  
+- Developed with simple ui and **responsive React applications** for business use  
+- Created **admin dashboards** with modern and simple UI patterns  
 - Worked on reusable components and clean layouts  
 - Integrated APIs and handled dynamic data  
 - Improved UX with animations and smooth interactions  
-
+- link : <a href="https://w-y-e.vercel.app">Click to View </a>
 ---
 
 ### 🌍 Freelance Web Developer  
